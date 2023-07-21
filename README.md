@@ -1,0 +1,2 @@
+# Detection-and-segmentation-boats-and-the-sea-in-image-with-Fast-RCNN
+This project aims to develop a system for detecting and segmenting boats in images and tracking them in videos.  The sea surface's irregular movement and boat appearance variations pose challenges. Boat detection can be approached in various ways, with the goal of locating boats in the image. Sea segmentation requires highlighting sea pixels.
